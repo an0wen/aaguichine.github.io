@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <i>aka the water guy</i>
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
