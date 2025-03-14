@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <i>aka the water guy</i>
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo_me_3.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Center for Adaptative Optics, office 111</p>
+    <p>1156 High Street</p>
+    <p>Santa Cruz, CA 95064</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +23,19 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, my name is Artem Aguichine, and I am currently a Postdoctoral Researcher at the University of California, Santa Cruz (UCSC).
+
+I am a planetary scientist, and my research spans a broad range of topics related to planet formation, evolution, and interior structure. I focus on characterizing the properties and composition of (exo)planets through theoretical approaches and numerical modeling.
+
+I am particularly interested in the distribution of <a href='https://en.wikipedia.org/wiki/CHNOPS'>volatile species</a> in our Solar System, and the presence of water in <a href='https://www.researchgate.net/publication/384245213/figure/fig1/AS:11431281279535397@1727061777617/The-distribution-of-close-in-planet-radii-exhibits-a-bimodality-for-sub-Neptune-sized.ppm'>sub-Neptunes</a>. My research advances the field of astrobiology, shedding light on the distribution of life throughout planetary systems and the origin of life in our own Solar System.
+
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
