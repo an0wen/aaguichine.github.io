@@ -32,7 +32,7 @@ Hi, my name is Artem Aguichine, and I am currently a Postdoctoral Researcher at 
 
 I am a planetary scientist, and my research spans a broad range of topics related to planet formation, evolution, and interior structure. I focus on characterizing the properties and composition of (exo)planets through theoretical approaches and numerical modeling.
 
-I am particularly interested in the distribution of <a href='https://en.wikipedia.org/wiki/CHNOPS'>volatile species</a> in our Solar System, and the presence of water in <a href='https://www.researchgate.net/publication/384245213/figure/fig1/AS:11431281279535397@1727061777617/The-distribution-of-close-in-planet-radii-exhibits-a-bimodality-for-sub-Neptune-sized.ppm'>sub-Neptunes</a>. My research advances the field of astrobiology, shedding light on the distribution of life throughout planetary systems and the origin of life in our own Solar System.
+I am particularly interested in the distribution of <a href='https://en.wikipedia.org/wiki/CHNOPS'>volatile species</a> in our Solar System, and the presence of water in <a href='https://raw.githubusercontent.com/an0wen/an0wen.github.io/refs/heads/main/assets/img/sub-Neptunes.png'>sub-Neptunes</a>. My research advances the field of astrobiology, shedding light on the distribution of life throughout planetary systems and the origin of life in our own Solar System.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
